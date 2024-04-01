@@ -1,0 +1,21 @@
+ID: 23945
+Age: 20
+First Name: Hussain
+Second Name: Jamal
+Gender: M
+Phone Number: 03337730987
+Patient Admit Date: 29-3-2023
+
+Patient Recorded temperature: 103
+cough
+
+cold
+
+flue
+
+
+Medicine Prescription: 
+softin 10mg : 95
+rijiks : 240
+coferb 120ml : 250
+Total is : 585

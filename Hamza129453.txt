@@ -1,0 +1,15 @@
+ID: 129453
+Age: 24
+First Name: Hamza
+Second Name: Shakir
+Gender: M
+Phone Number: 03129058889
+Patient Admit Date: 10-6-2023
+
+Patient Recorded temperature: 103
+cough
+
+cold
+
+flue
+

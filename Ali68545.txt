@@ -1,0 +1,24 @@
+ID: 68545
+Age: 13
+First Name: Ali
+Second Name: Samad
+Gender: M
+Phone Number: 03219064455
+Patient Admit Date: 12-9-2021
+
+Patient Recorded temperature: 103
+cough
+
+cold
+
+flue
+
+stomach ache
+
+
+Medicine Prescription: 
+softin 10mg : 95
+rijiks : 240
+coferb 120ml : 250
+gaviniscon 120 : 120
+Total is : 705

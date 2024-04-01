@@ -1,0 +1,22 @@
+ID: 23921
+Age: 31
+First Name: Junaid
+Second Name: Karamali
+Gender: M
+Phone Number: 03218794455
+Patient Admit Date: 12-12-2023
+
+Patient Recorded temperature: 104
+severe headache
+
+cough
+
+cold
+
+
+Medicine Prescription: 
+ : 0
+panadol 500mg : 640
+coferb 120ml : 250
+rijiks : 240
+Total is : 1130

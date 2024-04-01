@@ -1,0 +1,17 @@
+ID: 48546
+Age: 31
+First Name: Ghazi
+Second Name: Shamsi
+Gender: M
+Phone Number: 03238867590
+Patient Admit Date: 26-4-2023
+
+Patient Recorded temperature: 99
+cold
+
+nausea
+
+
+Medicine Prescription: 
+softin 10mg : 95
+Total is : 95

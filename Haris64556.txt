@@ -1,0 +1,21 @@
+ID: 64556
+Age: 11
+First Name: Haris
+Second Name: Shiekh
+Gender: M
+Phone Number: 00000000000
+Patient Admit Date: 13-9-2023
+
+Patient Recorded temperature: 102
+cough
+
+cold
+
+nausea
+
+
+Medicine Prescription: 
+rijiks : 240
+siroline 120ml : 65
+coferb 120ml : 250
+Total is : 555

@@ -1,0 +1,18 @@
+ID: 43589
+Age: 30
+First Name: Hamza
+Second Name: Khalid
+Gender: M
+Phone Number: 03128450043
+Patient Admit Date: 18-12-2023
+
+Patient Recorded temperature: 103
+coughing
+
+stomach ache
+
+
+Medicine Prescription: 
+coferb 120ml : 250
+gaviniscon 120 : 120
+Total is : 370
